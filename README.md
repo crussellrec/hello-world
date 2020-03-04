@@ -1,3 +1,3 @@
 # hello-world
 repository 1
-I am a neewb but ecited to learn!!
+I am a neewwb but excited to learn!!
